@@ -1,0 +1,1 @@
+[{"_id": {"$oid": "5e4a637b46a19e2fb438a917"}, "science": "100", "social": "100", "physics": "100", "maths": "100", "userid": "5e44f1c900b15b1cf56ea345"}]
